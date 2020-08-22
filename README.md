@@ -13,4 +13,4 @@ Alpaca is used in this project for its speed and simplicity.
 
 I encourage you not to invest any money that you would be disappointed to lose.
 
-Feel free to use this to make some money on the side, as I have. If you know of a clever way to beat the stocktwits API rate limit and would like to contribute, just let me know.
+Feel free to use this to make some money on the side, as I have. If you know of a clever way to beat the stocktwits API rate limit or just a way to speed up execution in general and would like to contribute, just let me know.
